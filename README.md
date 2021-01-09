@@ -1,4 +1,5 @@
 # DNA Identification Algorithm using Python
+[![Maintainability](https://api.codeclimate.com/v1/badges/6bcc0d5500aab9a14742/maintainability)](https://codeclimate.com/github/JacobGrisham/DNA-Identification-Algorithm-using-Python/maintainability)
 ### Homework from [Harvard's Introduction to Computer Science CS50 hosted on eDX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 ### 🎓 [Problem Set 6](https://cs50.harvard.edu/x/2020/psets/6/)
 - [DNA](https://cs50.harvard.edu/x/2020/psets/6/dna/): Program takes a sequence of DNA and a CSV file containing Short Tandem Repeats (STR) counts for a list of individuals and then outputs to whom the DNA (most likely) belongs.
